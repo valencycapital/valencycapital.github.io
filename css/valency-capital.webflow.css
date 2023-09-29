@@ -326,7 +326,7 @@ blockquote {
 }
 
 .logo.no-margin {
-  width: 14em;
+  width: 6em;
   margin-right: 0;
 }
 
@@ -569,7 +569,8 @@ blockquote {
 }
 
 .row-1._1 {
-  margin-top: 5.5em;
+  margin-top: 6em;
+  padding-bottom: 6em;
 }
 
 .mid-line-wrapper {
@@ -598,8 +599,8 @@ blockquote {
 
 .row-2 {
   width: 49%;
-  padding-top: 8em;
-  padding-bottom: 8em;
+  padding-top: 6em;
+  padding-bottom: 6em;
   padding-left: 7.875em;
 }
 
@@ -873,19 +874,19 @@ blockquote {
 }
 
 .vashi {
-  width: 6em;
+  width: 9em;
 }
 
 .vashi.vk {
-  width: 11em;
+  width: 15em;
 }
 
 .vashi.locally {
-  width: 8em;
+  width: 9em;
 }
 
 .vashi.ryxe {
-  width: 7em;
+  width: 10em;
 }
 
 .vashi.athletic {
